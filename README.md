@@ -1,1 +1,1 @@
-# email-templates-tribal
+## Assets for Email Templates
